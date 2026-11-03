@@ -19,7 +19,7 @@ AI engineer based in Germany. I build production-minded Generative AI, RAG, MLOp
 ## More work
 
 - **Forecasting & ML:** [GreenGridOptimizer](https://github.com/nithya-prakash/GreenGridOptimizer) (wind/solar forecasting), [PredictiveMaintenanceAI](https://github.com/nithya-prakash/PredictiveMaintenanceAI) (NASA C-MAPSS RUL), [AirQualityCascade](https://github.com/nithya-prakash/AirQualityCascade) (PM2.5/NO2 for 315 German stations)
-- **Vision & RL:** [DefectVisionAI](https://github.com/nithya-prakash/DefectVisionAI) (MVTec AD), [ForgeRL](https://github.com/nithya-prakash/ForgeRL) (PPO vs. OR-Tools on job-shop scheduling)
+- **Vision & RL:** [DefectVisionAI](https://github.com/nithya-prakash/DefectVisionAI) (MVTec AD anomaly detection, plus a YOLOv8 weld-defect detector: mAP50 0.59), [ForgeRL](https://github.com/nithya-prakash/ForgeRL) (PPO vs. OR-Tools on job-shop scheduling)
 - **Data & NLP:** [JobIntelGermany](https://github.com/nithya-prakash/JobIntelGermany) (German job-market analysis)
 - **LLM fine-tuning:** [LegalLoRA](https://github.com/nithya-prakash/LegalLoRA) (LoRA on a 3B model with MLX, German legal entity extraction: F1 0.69 vs. 0.37 for a 5-shot prompt)
 - **Voice & agents:** [DeutschAI](https://github.com/nithya-prakash/DeutschAI) (voice German tutor, LangGraph)
